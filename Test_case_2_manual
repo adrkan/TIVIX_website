@@ -1,0 +1,12 @@
+ID: 102
+Test case: Test UI and UX homepage
+Test case description: Verification of animation smoothness, image quality, page consistency and its functionality on all browsers
+Steps:
+1. Go to tivix.com and  check how subtitles appear, whether the animation is smooth and works on every browser
+2. Checking the visual appearance of all frames, buttons, images and their location in accordance with the documentation
+3. Enter each submenu and check where the links lead
+4. Carousel - watching its animation, clicking on the links and manual clicking on the scrolling wheel.
+5. View recommendations from customers, their consistency, validity of data (persons and their positions)
+6. Click on the button"Let's build something great"
+7. Responsiveness, speed of page launch
+Expected result: All data is correct, the website works flawlessly and the fluency is enough
