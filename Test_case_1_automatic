@@ -1,0 +1,15 @@
+Test case: Automatic test. Testing the correctness of the subpages of the Case studies tab.
+Test case description: Checking if each button works and moves to the correct subpage and what are the addresses of the subpages
+Steps:
+1. Go to tivix.com and click on the Case Studies tab.
+2. Find the "See case study" button of the best egg company and click on it.
+3. Exit to previous screen
+4. Find the SolarCity "See case study" button and click on it.
+5. exit to the previous screen
+6. Find the Zoetis "See case study" button and click on it.
+7. Exit to previous screen
+8. Find the FormForce "See case study" button and click on it.
+9. go to the previous screen Find the Cloudvelox "See case study" button and click on it
+Expected result: All subpages should start correctly. 
+Addresses of subpages do not differ from those in the documentation. 
+After extending  the time between clicking, animations should behave correctly and smoothly.
