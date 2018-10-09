@@ -1,0 +1,10 @@
+ID: 103
+Test case: Services tab in the main menu - its subpages, links, consistency and business compatibility.
+Test case description: Verification of the correctness of opening subpages of options in the Services menu and their content
+Steps:
+1. Go to tivix.com and click on the Services tab.
+2. scroll down to the horizontal menu with links: Software Development, Digital Transformation and Product Design
+3. Software Development: Click on each link- Custom Web App Development, Software Product Development, Custom Mobile App Development and API Development Services.
+4. Digital Transformation: entry to both links Innovation Workshops and Digital Transformation Services
+5. Product Design: UI/UX Design and Design Thinking Workshops
+Expected result: The links go without any mistakes to the correct subpages. Their appearance and text comply with the requirements of the documentation. Correct moving animation.
