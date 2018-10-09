@@ -1,3 +1,4 @@
+ID: 101
 Test case: Automatic test. Testing the correctness of the subpages of the Case studies tab.
 Test case description: Checking if each button works and moves to the correct subpage and what are the addresses of the subpages
 Steps:
